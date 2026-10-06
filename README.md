@@ -1,43 +1,61 @@
-![BANICA — GitHub profile header](assets/github-profile-header.svg)
-
 # Building systems, ventures and research with AI
 
-I define problems precisely, research them thoroughly, design systems rigorously, and direct AI to execute efficiently. Strategy, architecture and verification remain human-directed.
+I design and direct work at the intersection of systems, ventures and decision-making.  
+AI accelerates execution; direction, constraints and verification remain human.
 
-## How I work
+---
 
-Research and structure inform every direction before implementation. AI participates in discovery, analysis, design and execution. I establish constraints, evaluate alternatives and verify results. The process remains explicit—guided by reasoning, evidence and verification.
+## 01 / Selected work
 
-## What I build
+### d'ORO
 
-**Systems.** Exploring decision infrastructure, information architecture, market mechanisms and governance systems.
+A venture connecting physical product, brand and digital experience in one public ecosystem.
 
-**Ventures.** Digital products and platforms addressing material problems.
+d'ORO presents a bottled-water product through a unified commerce and brand surface at doro.vip. It represents venture-building across physical product, brand identity, digital presentation and customer-facing commerce.
 
-**Research.** Evidence-based investigation into technical, strategic and market questions.
+**Status:** Active (public venture presence)  
+[Visit doro.vip](https://doro.vip)
 
-I use AI across research, analysis, design, implementation and evaluation while retaining direction, constraints and verification authority.
+---
 
-## Current focus
+## 02 / What I build
 
-- Human-directed AI systems and workflows
-- Decision and market design
-- Research methodology and evidence synthesis
-- Ventures built through explicit decisions and verification
+**AI-enabled systems**  
+Practical systems where AI contributes to useful execution under clear human direction.
 
-## Principles
+**Ventures and markets**  
+Digital products and market-facing initiatives shaped around specific, material problems.
 
-**Evidence over assumption.** Claims require grounding. Roadmaps are separated from shipped work.
+**Research and decisions**  
+Structured investigation and decision architecture that informs what to build—and what to defer.
 
-**Structure before complexity.** Problems are understood and shaped before implementation. Design iterates; decisions remain explicit.
+---
 
-**Humans direct. Agents execute.** AI generates alternatives, implements solutions, analyzes results. Humans choose direction, evaluate trade-offs and verify.
+## 03 / Research
 
-**Verification before acceptance.** Results are accepted on evidence, not assumption.
+Research is an active layer of my work focused on decisions, systems behavior and market questions.  
+Public research artifacts will be added as they are ready and verifiable.
 
-**Return on attention.** Build only what creates material value.
+---
 
-## 2020 → present
+## 04 / How I work
 
-From early digital and Web3 exploration to human-directed AI systems and ventures.
+Understand the problem.  
+Choose what matters.  
+Build and verify.
 
+I use AI across research, analysis and implementation, while retaining responsibility for scope, trade-offs and acceptance. Outcomes are evaluated on evidence rather than momentum.
+
+---
+
+## 05 / Evolution
+
+**2020 → now**
+
+From early digital and Web3 exploration to a more rigorous focus on human-directed AI systems, ventures and research.
+
+---
+
+## 06 / About
+
+I’m building a body of work around systems, ventures and applied intelligence. I care about clear thinking, useful execution and decisions that hold up under scrutiny. My focus is long-term: create work that is coherent, testable and worth compounding.
