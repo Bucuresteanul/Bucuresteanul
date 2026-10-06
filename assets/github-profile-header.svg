@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">BANICA — GitHub Profile Header v1.1</title>
+  <desc id="desc">Asymmetric editorial header with left-aligned identity text and a restrained systems trajectory motif on the right.</desc>
+
+  <!-- Background -->
+  <rect width="1600" height="400" fill="#0B0F14"/>
+
+  <!-- Quieter reference frame lines -->
+  <line x1="96" y1="64" x2="96" y2="336" stroke="#1F2933" stroke-opacity="0.55" stroke-width="1"/>
+  <line x1="96" y1="336" x2="760" y2="336" stroke="#1F2933" stroke-opacity="0.55" stroke-width="1"/>
+
+  <!-- Left text block -->
+  <g font-family="Space Grotesk, Inter, Segoe UI, Roboto, Arial, sans-serif" text-rendering="geometricPrecision">
+    <text x="132" y="166"
+          fill="#E9EEF5"
+          font-size="80"
+          font-weight="600"
+          letter-spacing="1.6">BANICA</text>
+
+    <text x="132" y="222"
+          fill="#E9EEF5"
+          font-size="30"
+          font-weight="420"
+          letter-spacing="0.2">Building systems, ventures and research with AI</text>
+
+    <text x="132" y="268"
+          fill="#A7B1BD"
+          fill-opacity="0.82"
+          font-size="14"
+          font-weight="500"
+          letter-spacing="2.2">HUMAN-DIRECTED · AI-ACCELERATED · EVIDENCE-DRIVEN</text>
+  </g>
+
+  <!-- Right-side Controlled Trajectory System motif (opened spacing, no container box) -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- Main trajectory -->
+    <line x1="1060" y1="196" x2="1390" y2="196" stroke="#E9EEF5" stroke-width="2"/>
+
+    <!-- Branch -->
+    <line x1="1224" y1="196" x2="1224" y2="144" stroke="#E9EEF5" stroke-width="1.5"/>
+    <line x1="1224" y1="144" x2="1298" y2="144" stroke="#E9EEF5" stroke-width="1.5"/>
+
+    <!-- Control node (human authority) -->
+    <circle cx="1060" cy="196" r="5.5" fill="#2F6FED"/>
+
+    <!-- Branch node -->
+    <circle cx="1298" cy="144" r="3.5" fill="#0B0F14" stroke="#A7B1BD" stroke-width="1.5"/>
+
+    <!-- Evidence marker (diamond) -->
+    <polygon points="1404,196 1418,182 1432,196 1418,210" fill="#0B0F14" stroke="#E9EEF5" stroke-width="2"/>
+
+    <!-- Metadata -->
+    <text x="1062" y="236"
+          fill="#A7B1BD"
+          font-family="IBM Plex Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace"
+          font-size="12"
+          letter-spacing="1.2">R01 · TRAJECTORY · V1</text>
+  </g>
+</svg>

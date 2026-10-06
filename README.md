@@ -1,3 +1,5 @@
+![BANICA — GitHub profile header](assets/github-profile-header.svg)
+
 # Building systems, ventures and research with AI
 
 I define problems precisely, research them thoroughly, design systems rigorously, and direct AI to execute efficiently. Strategy, architecture and verification remain human-directed.
@@ -38,3 +40,4 @@ I use AI across research, analysis, design, implementation and evaluation while 
 ## 2020 → present
 
 From early digital and Web3 exploration to human-directed AI systems and ventures.
+
