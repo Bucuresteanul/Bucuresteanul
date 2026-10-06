@@ -7,6 +7,8 @@ AI accelerates execution; direction, constraints and verification remain human.
 
 ## 01 / Selected work
 
+[![d'ORO — selected work](https://doro.vip/storage/2023/09/PREMIUM-HD.png)](https://doro.vip)
+
 ### d'ORO
 
 A venture connecting physical product, brand and digital experience in one public ecosystem.
