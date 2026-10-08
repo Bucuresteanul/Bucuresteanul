@@ -10,64 +10,29 @@
   <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
-<table>
-  <tr>
-    <td width="48%" valign="top">
+<p align="center">
+  <img src="./assets/BanIKa_ Sistemas, IA y Visión Global 3.png" alt="BanIKa — systems, ventures, research and AI capabilities" width="100%">
+</p>
 
-<pre><code>const BanIKa = {
+<p align="center">
+  <a href="#what-i-build">Systems</a> · <a href="#selected-work">Ventures</a> · <a href="#featured-research">Research</a> · <a href="#how-i-work">AI-accelerated</a> · <a href="#about">Global perspective</a> · <a href="#evolution">Lasting impact</a>
+</p>
+
+<details>
+<summary>BanIKa identity code</summary>
+
+```js
+const BanIKa = {
   builds: ["systems", "ventures", "research"],
   company: "Patoshi Agency",
   website: "banika.me",
   worksWith: "AI",
   direction: "human",
   focus: ["clarity", "execution", "verification"]
-}</code></pre>
+}
+```
 
-    </td>
-    <td width="52%" valign="top">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#what-i-build">
-        <img src="./assets/card-systems.png" alt="BanIKa — Systems" width="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="#selected-work">
-        <img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="150">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#featured-research">
-        <img src="./assets/card-research.png" alt="BanIKa — Research" width="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="#how-i-work">
-        <img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="150">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#about">
-        <img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="#evolution">
-        <img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="150">
-      </a>
-    </td>
-  </tr>
-</table>
-
-    </td>
-  </tr>
-</table>
+</details>
 
 ---
 
@@ -138,7 +103,7 @@ Working notes, ideas and short-form thinking will appear here as they become rea
 
 <a id="company"></a>
 
-## 06 / Company
+## 05 / Company
 
 ### Patoshi Agency
 
@@ -150,7 +115,7 @@ AI-enabled digital work, products and execution.
 
 <a id="how-i-work"></a>
 
-## 07 / How I Work
+## 06 / How I Work
 
 Understand the problem.  
 Choose what matters.  
@@ -162,7 +127,7 @@ I use AI across research, analysis, design and implementation while retaining re
 
 <a id="evolution"></a>
 
-## 08 / Evolution
+## 07 / Evolution
 
 **2020 → now**
 
@@ -172,7 +137,7 @@ From early digital and Web3 exploration to a broader focus on ventures, research
 
 <a id="about"></a>
 
-## 09 / About
+## 08 / About
 
 I work across ventures, research and systems design. I use AI extensively, but not as a substitute for judgment. My role is to frame problems, establish constraints, evaluate alternatives, make decisions and verify what gets built.
 
@@ -180,7 +145,7 @@ I work across ventures, research and systems design. I use AI extensively, but n
 
 <a id="contact"></a>
 
-## 10 / Contact
+## 09 / Contact
 
 For selected collaboration, projects or relevant conversations:
 
@@ -193,7 +158,5 @@ For selected collaboration, projects or relevant conversations:
 </p>
 
 <p align="center">
-  <a href="https://banika.me">banika.me</a> ·
-  <a href="https://github.com/Bucuresteanul">GitHub</a> ·
-  <a href="https://patoshi.agency">Patoshi Agency</a>
+  <a href="https://banika.me">banika.me</a> · <a href="https://github.com/Bucuresteanul">GitHub</a> · <a href="https://patoshi.agency">Patoshi Agency</a>
 </p>
