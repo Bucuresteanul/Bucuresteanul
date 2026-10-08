@@ -55,37 +55,25 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 <a id="now"></a>
-<h3>🟢 Now</h3>
-<p>⚙️ <strong><a href="#selected-work">Building</a></strong><br>
-BanIKa · d'ORO · personal digital presence</p>
-<p>📊 <strong><a href="#featured-research">Researching</a></strong><br>
-Wind energy · AI systems · decision architecture</p>
-<p>💡 <strong><a href="#notes">Exploring</a></strong><br>
-New ventures, research questions and opportunities</p>
+<img src="./assets/now-heading.png" alt="BanIKa — Now" width="100%"><br>
+<a href="#selected-work"><img src="./assets/now-building.png" alt="BanIKa — Building" width="100%"></a><br>
+<a href="#featured-research"><img src="./assets/now-researching.png" alt="BanIKa — Researching" width="100%"></a><br>
+<a href="#notes"><img src="./assets/now-exploring.png" alt="BanIKa — Exploring" width="100%"></a>
 </td>
-<td width="34%" valign="top">
+<td width="34%" valign="top" align="left">
 <a id="featured-research"></a>
-<h3>🟣 Featured Research</h3>
-<p>📄 <strong>Wind Energy Market in Iceland</strong><br>
-Market, grid, projects and unit economics<br>
-<code>ONGOING</code></p>
-<p>📄 <strong>Human-directed AI Governance</strong><br>
-Authority, verification and agent systems</p>
-<p>📄 <strong>Decision Architecture Under Uncertainty</strong><br>
-Evidence, trade-offs and scope control</p>
-<p><a href="https://banika.me">View all research →</a></p>
+<img src="./assets/research-heading.png" alt="BanIKa — Featured Research" width="100%"><br>
+<img src="./assets/research-wind.png" alt="Wind Energy Market in Iceland" width="100%"><br>
+<img src="./assets/research-ai.png" alt="Human-directed AI Governance" width="100%"><br>
+<img src="./assets/research-decision.png" alt="Decision Architecture Under Uncertainty" width="100%"><br>
+<a href="https://banika.me"><img src="./assets/research-view-all.png" alt="View all research" width="100%"></a>
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 <a id="company"></a>
-<h3><a href="https://patoshi.agency">Patoshi Agency ↗</a></h3>
-<p>AI-enabled digital work, products and execution.</p>
-<p><code>WEB</code> <code>AI</code> <code>PRODUCT</code> <code>EXECUTION</code></p>
-<hr>
-<h3><a href="https://github.com/Bucuresteanul">GitHub ↗</a></h3>
-<p>Projects, repositories, tools and experiments.</p>
-<p><code>REPOS</code> <code>TOOLS</code> <code>EXPERIMENTS</code></p>
+<a href="https://patoshi.agency"><img src="./assets/patoshi-agency.png" alt="Patoshi Agency — AI-enabled digital work, products and execution" width="100%"></a><br>
+<a href="https://github.com/Bucuresteanul"><img src="./assets/github-block.png" alt="GitHub — BanIKa projects, repositories, tools and experiments" width="100%"></a>
 </td>
 </tr>
 </table>
