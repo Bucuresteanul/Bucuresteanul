@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://doro.vip"><img src="./assets/selected-doro.png" alt="d'ORO — Physical product, brand and digital venture" width="31%"></a>
 <a href="https://windmil.is"><img src="./assets/selected-windmil.png" alt="windmil.is — Wind energy infrastructure in Iceland" width="31%"></a>
-<a href="https://patoshi.agency"><img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%"></a>
+<img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%">
 </p>
 
 <a id="what-i-build"></a>
@@ -80,7 +80,7 @@ Structured investigation and decision architecture that informs what to build, w
 <td width="34%" valign="top" align="left">
 <a id="featured-research"></a>
 <img src="./assets/research-heading.png" alt="BanIKa — Featured Research" width="100%"><br>
-<img src="./assets/research-wind.png" alt="Wind Energy Market in Iceland" width="100%"><br>
+<a href="https://github.com/Bucuresteanul/windmil.is"><img src="./assets/research-wind.png" alt="Wind Energy Market in Iceland" width="100%"></a><br>
 <img src="./assets/research-ai.png" alt="Human-directed AI Governance" width="100%"><br>
 <img src="./assets/research-decision.png" alt="Decision Architecture Under Uncertainty" width="100%"><br>
 <a href="https://banika.me"><img src="./assets/research-view-all.png" alt="BanIKa research at banika.me" width="100%"></a>
