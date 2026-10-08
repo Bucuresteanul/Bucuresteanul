@@ -51,6 +51,10 @@
   <img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure — AI, Governance, Family Office" width="31%">
 </p>
 
+<a id="now"></a>
+
+## 02 / Now
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
