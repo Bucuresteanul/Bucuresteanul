@@ -7,7 +7,7 @@
 Human direction. AI-accelerated execution. Work built to compound.
 
 <p align="center">
-  <a href="https://banika.me">banika.me</a> · <a href="#selected-work">Work</a> · <a href="#featured-research">Research</a> · <a href="https://patoshi.agency">Patoshi Agency</a> · <a href="#about">About</a>
+  <a href="https://banika.me"><kbd>Home</kbd></a> · <a href="#selected-work"><kbd>Work</kbd></a> · <a href="#featured-research"><kbd>Research</kbd></a> · <a href="#notes"><kbd>Notes</kbd></a> · <a href="#now"><kbd>Now</kbd></a> · <a href="#company"><kbd>Patoshi Agency</kbd></a> · <a href="#contact"><kbd>Contact</kbd></a>
 </p>
 
 ```js
@@ -39,6 +39,8 @@ d'ORO presents a bottled-water product through a unified commerce and brand surf
 [Visit doro.vip](https://doro.vip)
 
 ---
+
+<a id="now"></a>
 
 ## 02 / Now
 
@@ -76,6 +78,16 @@ Public research will appear here as individual investigations become ready for p
 
 ---
 
+<a id="notes"></a>
+
+## 05 / Notes
+
+Working notes, ideas and short-form thinking will appear here as they become ready to share.
+
+---
+
+<a id="company"></a>
+
 ## 05 / Company
 
 ### Patoshi Agency
@@ -109,6 +121,16 @@ From early digital and Web3 exploration to a broader focus on ventures, research
 ## 08 / About
 
 I work across ventures, research and systems design. I use AI extensively, but not as a substitute for judgment. My role is to frame problems, establish constraints, evaluate alternatives, make decisions and verify what gets built.
+
+---
+
+<a id="contact"></a>
+
+## 09 / Contact
+
+For selected collaboration, projects or relevant conversations:
+
+[banika.me](https://banika.me) · [Patoshi Agency](https://patoshi.agency)
 
 ---
 
