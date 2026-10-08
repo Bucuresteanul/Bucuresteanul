@@ -10,6 +10,17 @@
   <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
+<p align="center">
+  <img src="./assets/BanIKa_ Sistemas, IA y Visión Global 3.png" alt="BanIKa — systems, ventures, research and AI capabilities" width="100%">
+</p>
+
+<p align="center">
+  <a href="#what-i-build">Systems</a> · <a href="#selected-work">Ventures</a> · <a href="#featured-research">Research</a> · <a href="#how-i-work">AI-accelerated</a> · <a href="#about">Global perspective</a> · <a href="#evolution">Lasting impact</a>
+</p>
+
+<details>
+<summary>BanIKa identity code</summary>
+
 ```js
 const BanIKa = {
   builds: ["systems", "ventures", "research"],
@@ -21,16 +32,7 @@ const BanIKa = {
 }
 ```
 
-<p align="center">
-  <a href="#what-i-build"><img src="./assets/card-systems.png" alt="BanIKa — Systems" width="140"></a>
-  <a href="#selected-work"><img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="140"></a>
-  <br>
-  <a href="#featured-research"><img src="./assets/card-research.png" alt="BanIKa — Research" width="140"></a>
-  <a href="#how-i-work"><img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="140"></a>
-  <br>
-  <a href="#about"><img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="140"></a>
-  <a href="#evolution"><img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="140"></a>
-</p>
+</details>
 
 ---
 
