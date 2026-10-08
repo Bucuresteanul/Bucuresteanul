@@ -7,7 +7,13 @@
 Human direction. AI-accelerated execution. Work built to compound.
 
 <p align="center">
-  <a href="https://banika.me"><kbd>Home</kbd></a> · <a href="#selected-work"><kbd>Work</kbd></a> · <a href="#featured-research"><kbd>Research</kbd></a> · <a href="#notes"><kbd>Notes</kbd></a> · <a href="#now"><kbd>Now</kbd></a> · <a href="#company"><kbd>Patoshi Agency</kbd></a> · <a href="#contact"><kbd>Contact</kbd></a>
+  <a href="https://banika.me"><img src="./assets/menu-home.png" alt="Home" width="110"></a>
+  <a href="#selected-work"><img src="./assets/menu-work.png" alt="Work" width="95"></a>
+  <a href="#featured-research"><img src="./assets/menu-research.png" alt="Research" width="105"></a>
+  <a href="#notes"><img src="./assets/menu-notes.png" alt="Notes" width="90"></a>
+  <a href="#now"><img src="./assets/menu-now.png" alt="Now" width="100"></a>
+  <a href="#company"><img src="./assets/menu-patoshi-agency.png" alt="Patoshi Agency" width="125"></a>
+  <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
 ```js
