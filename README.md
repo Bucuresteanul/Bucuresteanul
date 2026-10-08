@@ -10,7 +10,8 @@
   <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
-<table width="100%">
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 <pre><code>const BanIKa = {
@@ -35,7 +36,6 @@
 </tr>
 </table>
 
----
 
 <a id="selected-work"></a>
 
@@ -51,11 +51,9 @@
   <img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure — AI, Governance, Family Office" width="31%">
 </p>
 
----
-
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="left">
+<td width="33%" valign="top" align="center">
 <a id="now"></a>
 <img src="./assets/now-heading.png" alt="BanIKa — Now" width="100%"><br>
 <a href="#selected-work"><img src="./assets/now-building.png" alt="BanIKa — Building" width="100%"></a><br>
@@ -77,8 +75,6 @@
 </td>
 </tr>
 </table>
-
----
 
 <a id="what-i-build"></a>
 
@@ -130,8 +126,6 @@ From early digital and Web3 exploration to a broader focus on ventures, research
 <p align="center">
 <a href="https://banika.me"><img src="./assets/about-banika.png" alt="About BanIKa" width="49%"></a><img src="./assets/my-principles.png" alt="BanIKa — My Principles" width="28%"><a href="https://banika.me"><img src="./assets/banika-signature.png" alt="BanIKa signature" width="23%"></a>
 </p>
-
----
 
 <p align="center">
 <a href="https://banika.me"><img src="./assets/footer-banika-me.png" alt="banika.me" width="15%"></a><a href="https://github.com/Bucuresteanul"><img src="./assets/footer-github.png" alt="GitHub" width="10%"></a><a href="https://patoshi.agency"><img src="./assets/footer-patoshi-agency.png" alt="Patoshi Agency" width="14%"></a><a href="#contact"><img src="./assets/footer-contact.png" alt="Contact" width="11%"></a><img src="./assets/footer-spacer.png" alt="" width="33%"><img src="./assets/footer-status.png" alt="Always building." width="17%">
