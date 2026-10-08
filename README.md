@@ -41,16 +41,15 @@
 
 ## 01 / Selected Work
 
-[![d'ORO — selected work](https://doro.vip/storage/2023/09/PREMIUM-HD.png)](https://doro.vip)
+<p align="right">
+  <a href="https://banika.me">View all projects →</a>
+</p>
 
-### d'ORO
-
-A venture connecting physical product, brand and digital experience in one public ecosystem.
-
-d'ORO presents a bottled-water product through a unified commerce and brand surface at doro.vip. It represents venture-building across physical product, brand identity, digital presentation and customer-facing commerce.
-
-**Status:** Active (public venture presence)  
-[Visit doro.vip](https://doro.vip)
+<p align="center">
+  <a href="https://doro.vip"><img src="./assets/selected-doro.png" alt="d'ORO — Physical product, brand and digital venture — Brand, E-commerce, Ecosystem" width="31%"></a>
+  <img src="./assets/selected-windmil.png" alt="windmil.is — Wind energy infrastructure in Iceland — Energy, Infrastructure, Iceland" width="31%">
+  <img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure — AI, Governance, Family Office" width="31%">
+</p>
 
 ---
 
