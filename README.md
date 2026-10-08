@@ -46,8 +46,8 @@
 
 <p align="center">
 <a href="https://doro.vip"><img src="./assets/selected-doro.png" alt="d'ORO — Physical product, brand and digital venture" width="31%"></a>
-<img src="./assets/selected-windmil.png" alt="windmil.is — Wind energy infrastructure in Iceland" width="31%">
-<img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%">
+<a href="https://windmil.is"><img src="./assets/selected-windmil.png" alt="windmil.is — Wind energy infrastructure in Iceland" width="31%"></a>
+<a href="https://patoshi.agency"><img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%"></a>
 </p>
 
 <a id="what-i-build"></a>
