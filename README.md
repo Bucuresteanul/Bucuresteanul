@@ -45,9 +45,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/Bucuresteanul/sfii"><img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%"></a>
 <a href="https://doro.vip"><img src="./assets/selected-doro.png" alt="d'ORO — Physical product, brand and digital venture" width="31%"></a>
 <a href="https://windmil.is"><img src="./assets/selected-windmil.png" alt="windmil.is — Wind energy infrastructure in Iceland" width="31%"></a>
-<a href="https://github.com/Bucuresteanul/sfii"><img src="./assets/selected-sfii.png" alt="SFII — Sovereign Family Intelligence Infrastructure" width="31%"></a>
 </p>
 
 <a id="what-i-build"></a>
