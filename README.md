@@ -1,4 +1,4 @@
-# Building systems, ventures and research with AI
+![BANICA — Building systems, ventures and research with AI](./assets/profile-hero.jpg)
 
 I design and direct work at the intersection of systems, ventures and decision-making.  
 AI accelerates execution; direction, constraints and verification remain human.
