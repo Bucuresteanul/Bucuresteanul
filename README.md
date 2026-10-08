@@ -10,13 +10,67 @@
   <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
-<p align="center">
-  <img src="./assets/BanIKa_ Sistemas, IA y Visión Global 3.png" alt="BanIKa — systems, ventures, research and AI capabilities" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="48%" valign="top">
 
-<p align="center">
-  <a href="#what-i-build">Systems</a> · <a href="#selected-work">Ventures</a> · <a href="#featured-research">Research</a> · <a href="#how-i-work">AI-accelerated</a> · <a href="#about">Global perspective</a> · <a href="#evolution">Lasting impact</a>
-</p>
+<pre><code>const BanIKa = {
+  builds: ["systems", "ventures", "research"],
+  company: "Patoshi Agency",
+  website: "banika.me",
+  worksWith: "AI",
+  direction: "human",
+  focus: ["clarity", "execution", "verification"]
+}</code></pre>
+
+    </td>
+
+    <td width="52%" valign="top">
+
+      <table>
+        <tr>
+          <td align="center">
+            <a href="#what-i-build">
+              <img src="./assets/card-systems.png" alt="BanIKa — Systems" width="150">
+            </a>
+          </td>
+          <td align="center">
+            <a href="#selected-work">
+              <img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="150">
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <a href="#featured-research">
+              <img src="./assets/card-research.png" alt="BanIKa — Research" width="150">
+            </a>
+          </td>
+          <td align="center">
+            <a href="#how-i-work">
+              <img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="150">
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <a href="#about">
+              <img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="150">
+            </a>
+          </td>
+          <td align="center">
+            <a href="#evolution">
+              <img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="150">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>BanIKa identity code</summary>
