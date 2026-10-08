@@ -136,12 +136,3 @@ From early digital and Web3 exploration to a broader focus on ventures, research
 <p align="center">
 <a href="https://banika.me"><img src="./assets/footer-banika-me.png" alt="banika.me" width="15%"></a><a href="https://github.com/Bucuresteanul"><img src="./assets/footer-github.png" alt="GitHub" width="10%"></a><a href="https://patoshi.agency"><img src="./assets/footer-patoshi-agency.png" alt="Patoshi Agency" width="14%"></a><a href="#contact"><img src="./assets/footer-contact.png" alt="Contact" width="11%"></a><img src="./assets/footer-spacer.png" alt="" width="33%"><img src="./assets/footer-status.png" alt="Always building." width="17%">
 </p>
----
-
-<p align="center">
-  <strong>BanIKa</strong>
-</p>
-
-<p align="center">
-  <a href="https://banika.me">banika.me</a> · <a href="https://github.com/Bucuresteanul">GitHub</a> · <a href="https://patoshi.agency">Patoshi Agency</a>
-</p>
