@@ -53,18 +53,42 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 <a id="now"></a>
-
-## 02 / Now
-
-**Building**  
-BanIKa personal presence, GitHub profile and current ventures.
-
-**Researching**  
-AI-enabled systems, decision architecture, markets and infrastructure.
-
-**Exploring**  
-New problems, ventures and research worth pursuing.
+<h3>🟢 Now</h3>
+<p>⚙️ <strong><a href="#selected-work">Building</a></strong><br>
+BanIKa · d'ORO · personal digital presence</p>
+<p>📊 <strong><a href="#featured-research">Researching</a></strong><br>
+Wind energy · AI systems · decision architecture</p>
+<p>💡 <strong><a href="#notes">Exploring</a></strong><br>
+New ventures, research questions and opportunities</p>
+</td>
+<td width="34%" valign="top">
+<a id="featured-research"></a>
+<h3>🟣 Featured Research</h3>
+<p>📄 <strong>Wind Energy Market in Iceland</strong><br>
+Market, grid, projects and unit economics<br>
+<code>ONGOING</code></p>
+<p>📄 <strong>Human-directed AI Governance</strong><br>
+Authority, verification and agent systems</p>
+<p>📄 <strong>Decision Architecture Under Uncertainty</strong><br>
+Evidence, trade-offs and scope control</p>
+<p><a href="https://banika.me">View all research →</a></p>
+</td>
+<td width="33%" valign="top">
+<a id="company"></a>
+<h3><a href="https://patoshi.agency">Patoshi Agency ↗</a></h3>
+<p>AI-enabled digital work, products and execution.</p>
+<p><code>WEB</code> <code>AI</code> <code>PRODUCT</code> <code>EXECUTION</code></p>
+<hr>
+<h3><a href="https://github.com/Bucuresteanul">GitHub ↗</a></h3>
+<p>Projects, repositories, tools and experiments.</p>
+<p><code>REPOS</code> <code>TOOLS</code> <code>EXPERIMENTS</code></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,33 +107,11 @@ Structured investigation and decision architecture that informs what to build—
 
 ---
 
-<a id="featured-research"></a>
-
-## 04 / Featured Research
-
-Research is an active part of my work across systems, markets, infrastructure and decision-making.
-
-Public research will appear here as individual investigations become ready for publication.
-
----
-
 <a id="notes"></a>
 
 ## 05 / Notes
 
 Working notes, ideas and short-form thinking will appear here as they become ready to share.
-
----
-
-<a id="company"></a>
-
-## 05 / Company
-
-### Patoshi Agency
-
-AI-enabled digital work, products and execution.
-
-[Visit patoshi.agency →](https://patoshi.agency)
 
 ---
 
