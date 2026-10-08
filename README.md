@@ -12,7 +12,7 @@
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 <pre><code>const BanIKa = {
   builds: ["systems", "ventures", "research"],
   company: "Patoshi Agency",
@@ -22,15 +22,15 @@
   focus: ["clarity", "execution", "verification"]
 }</code></pre>
 </td>
-<td width="52%" valign="top" align="center">
-<a href="#what-i-build"><img src="./assets/card-systems.png" alt="BanIKa — Systems" width="145"></a>
-<a href="#selected-work"><img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="145"></a>
+<td width="50%" valign="top" align="center">
+<a href="#what-i-build"><img src="./assets/card-systems.png" alt="BanIKa — Systems" width="140"></a>
+<a href="#selected-work"><img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="140"></a>
 <br>
-<a href="#featured-research"><img src="./assets/card-research.png" alt="BanIKa — Research" width="145"></a>
-<a href="#how-i-work"><img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="145"></a>
+<a href="#featured-research"><img src="./assets/card-research.png" alt="BanIKa — Research" width="140"></a>
+<a href="#how-i-work"><img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="140"></a>
 <br>
-<a href="#about"><img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="145"></a>
-<a href="#evolution"><img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="145"></a>
+<a href="#about"><img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="140"></a>
+<a href="#evolution"><img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="140"></a>
 </td>
 </tr>
 </table>
