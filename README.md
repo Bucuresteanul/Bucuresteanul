@@ -1,4 +1,4 @@
-![BanIKa — Building systems, ventures and research with AI](./assets/profile-hero.jpg)
+![BanIKa — Building systems, ventures and research with AI](./assets/profile-hero-banika.png)
 
 # BanIKa
 
