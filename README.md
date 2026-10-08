@@ -119,7 +119,15 @@ Working notes, ideas and short-form thinking — shared when they are ready to b
 
 From early digital and Web3 exploration to a broader focus on ventures, research and human-directed AI systems.
 
-The principle remains the same: do not erase history — show evolution.
+Evidence remains visible rather than being rewritten:
+
+- [CREP](https://github.com/Bucuresteanul/CREP) — earliest preserved GitHub artifact
+- [Dobre-s](https://github.com/Bucuresteanul/Dobre-s) — historical Remix / Netlify exploration
+- [im-banika](https://github.com/Bucuresteanul/im-banika) — historical Gatsby / CMS exploration
+- [netlify-alchemy-dapp-boilerplates](https://github.com/Bucuresteanul/netlify-alchemy-dapp-boilerplates) — historical Web3 exploration
+- [doro](https://github.com/Bucuresteanul/doro) — preserved legacy evolving into the current d'ORO public project hub
+
+**Preserve history. Show evolution.**
 
 <a id="about"></a>
 
