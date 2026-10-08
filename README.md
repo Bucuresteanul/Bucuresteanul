@@ -127,9 +127,9 @@ From early digital and Web3 exploration to a broader focus on ventures, research
 
 <a id="about"></a>
 
-## 08 / About
-
-I work across ventures, research and systems design. I use AI extensively, but not as a substitute for judgment. My role is to frame problems, establish constraints, evaluate alternatives, make decisions and verify what gets built.
+<p align="center">
+<a href="https://banika.me"><img src="./assets/about-banika.png" alt="About BanIKa" width="49%"></a><img src="./assets/my-principles.png" alt="BanIKa — My Principles" width="28%"><a href="https://banika.me"><img src="./assets/banika-signature.png" alt="BanIKa signature" width="23%"></a>
+</p>
 
 ---
 
