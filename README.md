@@ -10,6 +10,10 @@
   <a href="#contact"><img src="./assets/menu-contact.png" alt="Contact" width="100"></a>
 </p>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ```js
 const BanIKa = {
   builds: ["systems", "ventures", "research"],
@@ -20,6 +24,26 @@ const BanIKa = {
   focus: ["clarity", "execution", "verification"]
 }
 ```
+
+  </td>
+    <td valign="top" width="50%">
+      <table>
+        <tr>
+          <td><a href="#what-i-build"><img src="./assets/card-systems.png" alt="BanIKa — Systems" width="170"></a></td>
+          <td><a href="#selected-work"><img src="./assets/card-ventures.png" alt="BanIKa — Ventures" width="170"></a></td>
+        </tr>
+        <tr>
+          <td><a href="#featured-research"><img src="./assets/card-research.png" alt="BanIKa — Research" width="170"></a></td>
+          <td><a href="#how-i-work"><img src="./assets/card-ai-accelerated.png" alt="BanIKa — AI-accelerated" width="170"></a></td>
+        </tr>
+        <tr>
+          <td><a href="#about"><img src="./assets/card-global-perspective.png" alt="BanIKa — Global perspective" width="170"></a></td>
+          <td><a href="#evolution"><img src="./assets/card-lasting-impact.png" alt="BanIKa — Lasting impact" width="170"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,6 +78,8 @@ AI-enabled systems, decision architecture, markets and infrastructure.
 New problems, ventures and research worth pursuing.
 
 ---
+
+<a id="what-i-build"></a>
 
 ## 03 / What I Build
 
@@ -98,6 +124,8 @@ AI-enabled digital work, products and execution.
 
 ---
 
+<a id="how-i-work"></a>
+
 ## 06 / How I Work
 
 Understand the problem.  
@@ -107,6 +135,8 @@ Build and verify.
 I use AI across research, analysis, design and implementation while retaining responsibility for scope, trade-offs, decisions and acceptance.
 
 ---
+
+<a id="evolution"></a>
 
 ## 07 / Evolution
 
