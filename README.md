@@ -1,11 +1,5 @@
 ![BanIKa — Building systems, ventures and research with AI](./assets/profile-hero-banika.png)
 
-# BanIKa
-
-**Building systems, ventures and research with AI.**
-
-Human direction. AI-accelerated execution. Work built to compound.
-
 <p align="center">
   <a href="https://banika.me"><img src="./assets/menu-home.png" alt="Home" width="110"></a>
   <a href="#selected-work"><img src="./assets/menu-work.png" alt="Work" width="95"></a>
